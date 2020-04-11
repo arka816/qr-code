@@ -1,0 +1,6 @@
+#qrCanvas{
+    position: absolute;
+    top: 10vh;
+    left: 10vw;
+    border: none;
+}
